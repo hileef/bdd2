@@ -1,7 +1,7 @@
 SET FEEDBACK OFF
 SET LINESIZE 150
 SET PAGESIZE 40
-
+ 
 ALTER SESSION SET NLS_DATE_FORMAT = 'dd/mm/yyyy';
 
 REM ***************************************************************************
